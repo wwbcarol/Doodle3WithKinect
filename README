@@ -6,8 +6,9 @@ We modified his code with different color scheme, repleced the original mouse in
 We are using SimpleOpenNI library(https://code.google.com/p/simple-openni/) to handle the Kinect part.
 We are using Eclipse with processing library, check here about how to setup(http://processing.org/tutorials/eclipse/).
 
-Instrctions on how to run the project:
+How to run the project:
 1. Install Kinect drivers. We recommend using Kinect XBOX (we have not test with Kinect for Windows).
 https://code.google.com/p/simple-openni/wiki/Installation
-2. Download Eclipse
-3. Import our project and run!
+2. Download Eclipse and import our project.
+3. Plugin your Kinect.
+4. Run the program, wave or raise your hand for detection, move your hand to draw.
