@@ -1,3 +1,6 @@
+(c) Wenbin WU & Eugene Wong
+licensed under CC and GNU GPL
+
 Our project is based on Martin Schneider's work Doodle3(http://www.openprocessing.org/sketch/6742).
 In Martin's work, he uses Perlin Noise to create a hair flow kind of effect with mouse. His project
 is based on Processing IDE(http://www.processing.org/) and basically is Java Applet.
@@ -12,3 +15,5 @@ https://code.google.com/p/simple-openni/wiki/Installation
 2. Download Eclipse and import our project.
 3. Plugin your Kinect.
 4. Run the program, wave or raise your hand for detection, move your hand to draw.
+
+
