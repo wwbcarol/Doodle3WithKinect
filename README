@@ -1,0 +1,13 @@
+Our project is based on Martin Schneider's work Doodle3(http://www.openprocessing.org/sketch/6742).
+In Martin's work, he uses Perlin Noise to create a hair flow kind of effect with mouse. His project
+is based on Processing IDE(http://www.processing.org/) and basically is Java Applet.
+
+We modified his code with different color scheme, repleced the original mouse interaction with Kinect.
+We are using SimpleOpenNI library(https://code.google.com/p/simple-openni/) to handle the Kinect part.
+We are using Eclipse with processing library, check here about how to setup(http://processing.org/tutorials/eclipse/).
+
+Instrctions on how to run the project:
+1. Install Kinect drivers. We recommend using Kinect XBOX (we have not test with Kinect for Windows).
+https://code.google.com/p/simple-openni/wiki/Installation
+2. Download Eclipse
+3. Import our project and run!
